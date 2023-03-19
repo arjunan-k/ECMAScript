@@ -7,6 +7,9 @@ A comprehensive list of all new ES features from 2015 onwards with examples.
 - [ES2018 - ES9](ES2018.MD)
 - [ES2019 - ES10](ES2019.MD)
 - [ES2020 - ES11](ES2020.MD)
+- [ES2021 - ES12](ES2021.MD)
+- [ES2022 - ES13](ES2022.MD)
+- [ES2023 - ES14](ES2023.MD)
 
 ---
 
